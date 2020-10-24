@@ -9,4 +9,8 @@ Easy &amp; Advanced Websites Admin Panel URL Finder Python Script.
 
 3.Now started to find admin panel URL.
 
-4.Enjoy!
+4.Easy & Advanced Websites Admin Panel URL Finder.
+
+5.Enjoy!
+
+
